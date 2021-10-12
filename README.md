@@ -11,7 +11,7 @@ In this exercise you will:
 - Choose an image of your own for this assignment. The image needs to be landscape and exported at 1200px wide, JPG, RGB color mode, 16:9 aspect ratio. Remember that the file name should not include spaces (only letters, numbers, hyphen or underscore).
 - Create an assets folder in your main directory. Put your image there.
 - Add the image to the HTML between the first and second paragraphs. Be sure to include descriptive alt text so that the site visitor will get the same information whether or not they see the image.
-- Use CSS to make the image the full width of its parent element (main). You will do this by setting a width for the image selector.
+- Use CSS to make the image the full width of its parent element (main). You will do this by setting the display type and a width for the image selector.
 - Publish your website. Don't forget that you'll need to maintain the same file structure that you have in the main directory in your docs folder. 
 
 ## Submission
